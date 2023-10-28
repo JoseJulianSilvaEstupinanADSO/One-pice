@@ -88,12 +88,14 @@ article{
     border: 3px solid #000;
     margin: 10px 20px; 
     width: 60%;
-    height: 400px;
+    height: 100vh;
+    padding: 15px;
 }
 aside{
     background-color: #e6cb56;
     border: 3px solid #000;
     margin: 10px 20px; 
-    width: 40%;
-    height: 400px;
+    width: 20%;
+    height: 100vh;
+    padding: 15px;
 }
